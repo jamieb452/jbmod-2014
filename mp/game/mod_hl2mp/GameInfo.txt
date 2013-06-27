@@ -1,8 +1,8 @@
 "GameInfo"
 {
-	game	"My First HL2MP Mod"
-	title	"HALF+LIFE'"
-	title2	"deathmatch mod"
+	game	"JBMod 2014"
+	title	"JBMod"
+	title2	"Open Sores Edition"
 	type multiplayer_only
 	nomodels 0
 	nohimodel 1
@@ -16,7 +16,7 @@
 
 	FileSystem
 	{
-		SteamAppId				243730
+		SteamAppId				243750
 		
 		//
 		// The code that loads this file automatically does a few things here:
